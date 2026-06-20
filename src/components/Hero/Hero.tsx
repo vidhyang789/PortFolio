@@ -1,5 +1,4 @@
-import { motion } from 'framer-motion';
-import { FiFileText, FiVolume2 } from 'react-icons/fi';
+import { FiFileText } from 'react-icons/fi';
 import { personalInfo } from '../../data/resume';
 import './Hero.css';
 
